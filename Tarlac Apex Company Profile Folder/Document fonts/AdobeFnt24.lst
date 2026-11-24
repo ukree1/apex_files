@@ -1,0 +1,332 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/jaelmillan_dice/Desktop/Tarlac Apex Company Profile Folder/Document fonts/AdobeFnt24.lst
+FileLength:7123
+FileModTime:778566969
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FiraSans-Medium
+FamilyName:Fira Sans
+StyleName:Medium
+MenuName:Fira Sans Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Fira Sans Medium
+WritingScript:Roman
+OutlineFileName:/Users/jaelmillan_dice/Desktop/Tarlac Apex Company Profile Folder/Document fonts/FiraSans-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:366052
+FileModTime:768163250
+NameArray:0,Mac,4,Fira Sans Medium
+NameArray:0,Win,1,Fira Sans Medium
+NameArray:0,Win,16,Fira Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FiraSans-Regular
+FamilyName:Fira Sans
+StyleName:Regular
+MenuName:Fira Sans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Fira Sans Regular
+WritingScript:Roman
+OutlineFileName:/Users/jaelmillan_dice/Desktop/Tarlac Apex Company Profile Folder/Document fonts/FiraSans-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:357996
+FileModTime:768163250
+NameArray:0,Mac,4,Fira Sans Regular
+NameArray:0,Win,1,Fira Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FiraSans-SemiBold
+FamilyName:Fira Sans
+StyleName:SemiBold
+MenuName:Fira Sans SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Fira Sans SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/jaelmillan_dice/Desktop/Tarlac Apex Company Profile Folder/Document fonts/FiraSans-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:367408
+FileModTime:768163250
+NameArray:0,Mac,4,Fira Sans SemiBold
+NameArray:0,Win,1,Fira Sans SemiBold
+NameArray:0,Win,16,Fira Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Black
+FamilyName:Montserrat
+StyleName:Black
+MenuName:Montserrat Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Black
+WritingScript:Roman
+OutlineFileName:/Users/jaelmillan_dice/Desktop/Tarlac Apex Company Profile Folder/Document fonts/Montserrat-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:230124
+FileModTime:681057672
+NameArray:0,Mac,4,Montserrat Black
+NameArray:0,Win,1,Montserrat Black
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+MenuName:Montserrat
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Bold
+WritingScript:Roman
+OutlineFileName:/Users/jaelmillan_dice/Desktop/Tarlac Apex Company Profile Folder/Document fonts/Montserrat-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:235192
+FileModTime:681057672
+NameArray:0,Mac,4,Montserrat Bold
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Light
+FamilyName:Montserrat
+StyleName:Light
+MenuName:Montserrat Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Light
+WritingScript:Roman
+OutlineFileName:/Users/jaelmillan_dice/Desktop/Tarlac Apex Company Profile Folder/Document fonts/Montserrat-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:228068
+FileModTime:681057672
+NameArray:0,Mac,4,Montserrat Light
+NameArray:0,Win,1,Montserrat Light
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Regular
+FamilyName:Montserrat
+StyleName:Regular
+MenuName:Montserrat
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Regular
+WritingScript:Roman
+OutlineFileName:/Users/jaelmillan_dice/Desktop/Tarlac Apex Company Profile Folder/Document fonts/Montserrat-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:228620
+FileModTime:681057672
+NameArray:0,Mac,4,Montserrat Regular
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-SemiBold
+FamilyName:Montserrat
+StyleName:SemiBold
+MenuName:Montserrat SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Montserrat SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/jaelmillan_dice/Desktop/Tarlac Apex Company Profile Folder/Document fonts/Montserrat-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:234056
+FileModTime:681057672
+NameArray:0,Mac,4,Montserrat SemiBold
+NameArray:0,Win,1,Montserrat SemiBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Wingdings-Regular
+FamilyName:Wingdings
+StyleName:Regular
+MenuName:Wingdings
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Wingdings
+WritingScript:Roman
+OutlineFileName:/Users/jaelmillan_dice/Desktop/Tarlac Apex Company Profile Folder/Document fonts/Wingdings.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:86384
+FileModTime:736758104
+NameArray:0,Mac,4,Wingdings
+NameArray:0,Win,1,Wingdings
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-BoldItalic
+FamilyName:Calibri
+StyleName:Bold Italic
+MenuName:Calibri
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Calibri Bold Italic
+WritingScript:Roman
+OutlineFileName:/Users/jaelmillan_dice/Desktop/Tarlac Apex Company Profile Folder/Document fonts/calibri-bold-italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:954052
+FileModTime:634390472
+NameArray:0,Mac,4,Calibri Bold Italic
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Bold
+FamilyName:Calibri
+StyleName:Bold
+MenuName:Calibri
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Calibri Bold
+WritingScript:Roman
+OutlineFileName:/Users/jaelmillan_dice/Desktop/Tarlac Apex Company Profile Folder/Document fonts/calibri-bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:848924
+FileModTime:634390488
+NameArray:0,Mac,4,Calibri Bold
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri
+FamilyName:Calibri
+StyleName:Regular
+MenuName:Calibri
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Calibri
+WritingScript:Roman
+OutlineFileName:/Users/jaelmillan_dice/Desktop/Tarlac Apex Company Profile Folder/Document fonts/calibri-regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:811412
+FileModTime:634390406
+NameArray:0,Mac,4,Calibri
+NameArray:0,Win,1,Calibri
+%EndFont
+
